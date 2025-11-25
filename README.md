@@ -2,7 +2,7 @@
 I'm a passionate developer in my senior year at UCSC, majoring in Computer Science and minoring in Math.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mannmalviya&label=Profile%20views&color=0e75b6&style=flat" alt="mannmalviya" />
+  <img src="https://hits.sh/github.com/mannmalviya.svg?url=https://github.com/mannmalviya&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
 Check out my **portfolio**: [mannmalviya.github.io](https://mannmalviya.github.io/)  
