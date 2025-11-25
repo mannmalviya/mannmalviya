@@ -1,10 +1,6 @@
 ## Hi 👋, I'm Mann
 I'm a passionate developer in my senior year at UCSC, majoring in Computer Science and minoring in Math.
 
-<p align="left">
-  <img src="https://hits.sh/github.com/mannmalviya.svg?url=https://github.com/mannmalviya&style=flat-square&label=PROFILE%20VIEWS" alt="Profile Views" />
-</p>
-
 Check out my **portfolio**: [mannmalviya.github.io](https://mannmalviya.github.io/)  
 
 ## Tech Stack
