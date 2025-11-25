@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Mann
 I'm a passionate developer in my senior year at UCSC, majoring in Computer Science and minoring in Math.
+- 🌱 I’m currently learning how LLMs work
 
 Check out my **portfolio**: [mannmalviya.github.io](https://mannmalviya.github.io/)  
 
