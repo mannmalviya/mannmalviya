@@ -20,6 +20,7 @@ Check out my **portfolio**: [mannmalviya.github.io](https://mannmalviya.github.i
 
 ### Frameworks  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
 ### Developer Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
