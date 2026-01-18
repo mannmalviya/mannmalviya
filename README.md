@@ -31,5 +31,3 @@ Check out my **portfolio**: [mannmalviya.github.io](https://mannmalviya.github.i
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-004880?style=flat-square&logo=github-actions&logoColor=white)
-
-![Profile views](https://komarev.com/ghpvc/?username=mannmalviya&color=brightgreen)
