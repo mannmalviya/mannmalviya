@@ -3,3 +3,5 @@ I'm a passionate developer in my senior year at UCSC, majoring in Computer Scien
 - 🌱 I’m currently learning how LLMs work
 
 Check out my **portfolio**: [mannn.dev](https://mannn.dev/)
+
+![GitHub Contributions](https://gitlyy.vercel.app/api/contribution?username=mannmalviya&hide_border=true)
